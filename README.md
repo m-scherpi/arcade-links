@@ -22,7 +22,7 @@ Profiles: [Link](https://developers.arcgis.com/arcade/guide/profiles)
 
 ArcGIS API for JavaScript [Link](https://developers.arcgis.com/javascript/latest/arcade/)
 
-Playgound (static) [Link](https://developers.arcgis.com/arcade/playground/)
+Playground (static) [Link](https://developers.arcgis.com/arcade/playground/)
 
 
 ## Samples
