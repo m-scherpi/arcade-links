@@ -31,6 +31,8 @@ Arcade in AGOL: [Link](https://ct.maps.arcgis.com/apps/mapviewer/index.html?webm
 
 Arcade in map.apps: [Link](https://demos.conterra.de/mapapps/resources/apps/arcade_sample_us/index.html?lang=en)
 
+Arcade in ArcGIS API for JavaScript [Link](https://codepen.io/m-scherpi/pen/jOKmxEW?editors=1000)
+
 Arcade Executor API Sample: [Link](https://developers.arcgis.com/javascript/latest/sample-code/arcade-execute-chart/)
 
 Arcade Executor Playground (map.apps): [Link](https://demos.conterra.de/mapapps/resources/apps/downloads_arcade_executor/index.html?lang=en) 
