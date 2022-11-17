@@ -24,6 +24,8 @@ ArcGIS API for JavaScript [Link](https://developers.arcgis.com/javascript/latest
 
 Playground (static) [Link](https://developers.arcgis.com/arcade/playground/)
 
+Useful expressions [Link](https://github.com/Esri/arcade-expressions)
+
 
 ## Samples
 
